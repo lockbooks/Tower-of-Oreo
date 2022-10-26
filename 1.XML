@@ -1,0 +1,6 @@
+<Wrapper>
+ <Info />
+ <Background />
+ <Tower />
+ <MiniTower />
+</Wrapper>
